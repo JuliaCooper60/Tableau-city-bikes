@@ -90,8 +90,10 @@ Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_month_an
 
 This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people.
 
+Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_duration_and_distance.png)
+
 ### The number of people riding from Jersey City to NYC has increased significantly since COVID and continues to do so, especially in the summer months.
-Image of chart: ![Map_Start_and_End_Stations_by_Year](Map_Start_and_End_Stations_by_Year.png)
+Image of chart: ![Number_of_rides_by_duration_and_distance](Map_Start_and_End_Stations_by_Year.png)
 
 ## Top Stations by Year 
 
