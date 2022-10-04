@@ -106,9 +106,9 @@ Image of chart: ![Top_Start_and_End_Stations](Top_Start_and_End_Stations.png)
 * The average duration by day of the week has varied significantly in 2021 and 2022  
 * The average distance travelled has steadily increased year on year 
 
-Image of charts: ![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
-Image of charts: ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
-Image of charts: ![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
+Image of chart: ![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
+Image of chart: ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
+Image of chart: ![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
 
 
 
