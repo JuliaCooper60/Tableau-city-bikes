@@ -73,15 +73,15 @@ The data aggregations and cleaning steps are set out in the Jupyter notebooks
 * The number of casual customers has also increased.
 * in 2020, the number of members using bikes decreased and the number of casual rides increased. This could be due to COVID where people who normally use bikes to commute were working from home and did not need to commute and those who normally take public transport may have chosen to ride instead to reduce risk of infection.
 
-Image of chart: ![Number_of_Rides_and_Customer_Profile](Number_of_Rides_and_Customer_Profile.png)
+![Number_of_Rides_and_Customer_Profile](Number_of_Rides_and_Customer_Profile.png)
 
-####Number of Rides by Month and Year: shows the difference in the number of rides from the previous year and as a percentage of all rides over all years
+#### Number of Rides by Month and Year: shows the difference in the number of rides from the previous year and as a percentage of all rides over all years
 
 * The number of rides reduced significantly during COVID lockdown in early 2020.
 * There was some recovery back to 2019 numbers over the summer/fall months of 2020.
 * The number of rides continued to increase in the summer/fall months of 2021. This trend continues even more significantly in 2022.
 
-Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_month_and_year.png)
+![Number_of_rides_by_month_and_year](Number_of_rides_by_month_and_year.png)
 
 #### Number and Average Duration of Rides by Month by Year
 
@@ -90,7 +90,7 @@ Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_month_an
 
 This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people.
 
-Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_duration_and_distance.png)
+![Number_of_rides_by_month_and_year](Number_of_rides_by_duration_and_distance.png)
 
 #### The number of people riding from Jersey City to NYC has increased significantly since COVID and continues to do so, especially in the summer months.
 Image of chart: ![Number_of_rides_by_duration_and_distance](Map_Start_and_End_Stations_by_Year.png)
@@ -100,9 +100,9 @@ Image of chart: ![Number_of_rides_by_duration_and_distance](Map_Start_and_End_St
 * The top station has been Grove St Path across all Years 
 * There is variation in activity by Station between 2019 and 2022 
 
-Image of chart: ![Top_Start_and_End_Stations](Top_Start_and_End_Stations.png)
+![Top_Start_and_End_Stations](Top_Start_and_End_Stations.png)
 
-## Deeper Exploration of Ride Pattern - deeper exploration is required to better understand the drivers behind the variation in trends - this would be important for future planning 
+#### Deeper Exploration of Ride Pattern - deeper exploration is required to better understand the drivers behind the variation in trends - this would be important for future planning 
 
 * The Average duration of rides increased in 2021 but has trended down since April 2022
 * The average duration by day of the week has varied significantly in 2021 and 2022  
@@ -113,9 +113,9 @@ Image of chart: ![Top_Start_and_End_Stations](Top_Start_and_End_Stations.png)
 More people are riding bikes in Jersey City since COVID and usage is increasing year on year- especially in the summer months. This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people. There is significant variation in riding patterns by season, by month and on a daily basis. Deeper analysis would enable new insights that could inform urban development and business decisions.
 
 
-Image of chart: ![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
-Image of chart: ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
-Image of chart: ![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
+![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
+![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
+![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
 
 
 
