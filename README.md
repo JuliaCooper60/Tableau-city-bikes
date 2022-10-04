@@ -88,6 +88,8 @@ Image of chart: ![Number_of_rides_by_month_and_year](Number _of_rides_by_month _
 * While the number of rides was higher in 2022, the average Trip Duration reduced compared to 2021
 * The average distance travelled has steadily increased over the four years 
 
+This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people.
+
 ### The number of people riding from Jersey City to NYC has increased significantly since COVID and continues to do so, especially in the summer months.
 Image of chart: ![Map_Start_and_End_Stations_by_Year](Map_Start_and_End_Stations_by_Year.png)
 
@@ -105,7 +107,7 @@ Image of chart: ![Top_Start_and_End_Stations](Top_Start_and End_Stations.png)
 * The average distance travelled has steadily increased year on year 
 
 Image of charts: ![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
-Image of charts: ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_ of_Week.png)
+Image of charts: ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
 Image of charts: ![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
 
 
