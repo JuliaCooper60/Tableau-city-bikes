@@ -3,7 +3,7 @@
 
 ![citi-bike-station-bikes](citi-bike-station-bikes.jpg)
 
-# Introduction
+
 
 
 ### Background and Context:
