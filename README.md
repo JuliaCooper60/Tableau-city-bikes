@@ -64,10 +64,10 @@ The data aggregations and cleaning steps are set out in the Jupyter notebooks
 
 ### Key Findings: 
 
-## More people are riding bikes in Jersey City since COVID and usage is increasing year on year- especially in the summer months.
-## There is significant variation in riding patterns by season, by month and on a daily basis. Deeper analysis would enable new insights that could inform urban development and business decisions
+#### More people are riding bikes in Jersey City since COVID and usage is increasing year on year- especially in the summer months.
+#### There is significant variation in riding patterns by season, by month and on a daily basis. Deeper analysis would enable new insights that could inform urban development and business decisions
 
-## Number of rides and customer membership profile 
+#### Number of rides and customer membership profile 
 
 * Overall, the number of rides has increased year on year from 2019 to 2022.
 * The number of casual customers has also increased.
@@ -75,7 +75,7 @@ The data aggregations and cleaning steps are set out in the Jupyter notebooks
 
 Image of chart: ![Number_of_Rides_and_Customer_Profile](Number_of_Rides_and_Customer_Profile.png)
 
-## Number of Rides by Month and Year: shows the difference in the number of rides from the previous year and as a percentage of all rides over all years
+####Number of Rides by Month and Year: shows the difference in the number of rides from the previous year and as a percentage of all rides over all years
 
 * The number of rides reduced significantly during COVID lockdown in early 2020.
 * There was some recovery back to 2019 numbers over the summer/fall months of 2020.
@@ -83,7 +83,7 @@ Image of chart: ![Number_of_Rides_and_Customer_Profile](Number_of_Rides_and_Cust
 
 Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_month_and_year.png)
 
-## Number and Average Duration of Rides by Month by Year
+#### Number and Average Duration of Rides by Month by Year
 
 * While the number of rides was higher in 2022, the average Trip Duration reduced compared to 2021. 
 * The average distance travelled has steadily increased over the four years 
@@ -92,10 +92,10 @@ This could be indicative of bike-riding becomming more targetted and normalised 
 
 Image of chart: ![Number_of_rides_by_month_and_year](Number_of_rides_by_duration_and_distance.png)
 
-### The number of people riding from Jersey City to NYC has increased significantly since COVID and continues to do so, especially in the summer months.
+#### The number of people riding from Jersey City to NYC has increased significantly since COVID and continues to do so, especially in the summer months.
 Image of chart: ![Number_of_rides_by_duration_and_distance](Map_Start_and_End_Stations_by_Year.png)
 
-## Top Stations by Year 
+#### Top Stations by Year 
 
 * The top station has been Grove St Path across all Years 
 * There is variation in activity by Station between 2019 and 2022 
