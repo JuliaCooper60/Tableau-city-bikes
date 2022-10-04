@@ -108,14 +108,11 @@ Image of chart: ![Number_of_rides_by_duration_and_distance](Map_Start_and_End_St
 * The average duration by day of the week has varied significantly in 2021 and 2022  
 * The average distance travelled has steadily increased year on year 
 
-### Conclusion
-
-More people are riding bikes in Jersey City since COVID and usage is increasing year on year- especially in the summer months. This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people. There is significant variation in riding patterns by season, by month and on a daily basis. Deeper analysis would enable new insights that could inform urban development and business decisions.
-
-
 ![Average_Duration_by_ride_by_month_by_year](Average_Duration_by_ride_by_month_by_year.png)
 ![Average_Duration_Time_for_rides_by_Day_of_Week](Average_Duration_Time_for_rides_by_Day_of_Week.png)
 ![Avereage_Distance_by_WeekDay_vs._Weekend.png](Avereage_Distance_by_WeekDay_vs._Weekend.png)
 
+### Conclusion
 
+More people are riding bikes in Jersey City since COVID and usage is increasing year on year- especially in the summer months. This could be indicative of bike-riding becomming more targetted and normalised as a form of transport for an increasing number of people. There is significant variation in riding patterns by season, by month and on a daily basis. Deeper analysis would enable new insights that could inform urban development and business decisions.
 
